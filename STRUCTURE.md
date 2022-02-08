@@ -1,6 +1,6 @@
 # Structure
 
-docs/ - for documentaion.
-src/  - for main source files.
-test/ - for test files.
+docs/ - for documentaion. <br>
+src/  - for main source files. <br>
+test/ - for test files. <br>
 
